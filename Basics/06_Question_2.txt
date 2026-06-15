@@ -1,0 +1,4 @@
+# Question 2 - If we have only 5 bits, How 13 and -16 will be written in 5 bits.
+
+Answer -  13 in binary form for 5 bit is 01101
+       - -16 in bianry form for 5 bit is not possible atleast 6 bit required 110000
