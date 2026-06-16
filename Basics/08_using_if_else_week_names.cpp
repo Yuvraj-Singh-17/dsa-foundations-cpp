@@ -19,5 +19,5 @@ int main()
     else if (a==7)
     cout << "Sunday";
     else 
-    cout << "No week day assigned to this number \n";
+    cout << "No week day assigned to this number " << "\n" ;
 }
